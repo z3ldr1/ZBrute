@@ -91,7 +91,7 @@ while True:
           +-+|                Createad                 |+-+
     	  +-+|                   By                    |+-+
     	  +-+|                 Zeldr1$                 |+-+
-     	  +-+|        for Zeldr1$ team Clonwters       |+-+
+     	  +-+|        for Zeldr1$  Skullsec            |+-+
           +-+|-----------------------------------------|+-+
     	  +-+| Tool name: ZBrute                       |+-+
    	  +-+| Use To Brute Zeldr1$                    |+-+
